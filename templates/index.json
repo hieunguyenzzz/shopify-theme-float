@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "1629121146482c89f5": {
+      "type": "banner-slider",
+      "blocks": {
+        "c36dfd8b-7000-4dbb-8100-d57953fb77c1": {
+          "type": "item",
+          "settings": {
+            "heading": "The Back To School Collection",
+            "image_picker": "shopify:\/\/shop_images\/slider-school_mini-1.jpg",
+            "url": "\/",
+            "button_text": "View schoolwear",
+            "video_url": "https:\/\/vimeo.com\/45947074",
+            "video_button_text": "Play video"
+          }
+        },
+        "27192f96-d1dc-4788-8871-77700adea492": {
+          "type": "item",
+          "settings": {
+            "heading": "Fine Quality Knitwear For Women & Men",
+            "image_picker": "shopify:\/\/shop_images\/slider-knitwear_mini-1.jpg",
+            "url": "\/",
+            "button_text": "View knitwear",
+            "video_url": "https:\/\/vimeo.com\/45947074",
+            "video_button_text": "Play video"
+          }
+        },
+        "b5f7439c-222a-4fdb-a76e-8b0a53745ea8": {
+          "type": "item",
+          "settings": {
+            "heading": "The New A \/ W Shirts",
+            "image_picker": "shopify:\/\/shop_images\/slider-shirts.jpg",
+            "url": "\/",
+            "button_text": "View shirts",
+            "video_url": "",
+            "video_button_text": "Play video"
+          }
+        }
+      },
+      "block_order": [
+        "c36dfd8b-7000-4dbb-8100-d57953fb77c1",
+        "27192f96-d1dc-4788-8871-77700adea492",
+        "b5f7439c-222a-4fdb-a76e-8b0a53745ea8"
+      ],
+      "settings": {
+      }
+    },
+    "1628160445d84660e1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align: center; width:100%;padding:0 2em\">\n\t\t\t\n<span ><span style=\"color: #5a5a5a;\"><a style=\"color: #5a5a5a;text-decoration: unset;\" href=\"#\">! Use discount code: FIRSTIME to get <span style=\"color: #ff7012;\">10% off<\/span> your first order !<\/a><\/span><\/span>\n<span>\t\t<\/span><\/h2>"
+      }
+    },
+    "1629135702a32c031f": {
+      "type": "grid",
+      "blocks": {
+        "1629135702a32c031f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front2-1.jpg",
+            "heading": "Street–Style Is Back In Fashion",
+            "subheading": "Shop New Season",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1629135702a32c031f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front_mini-1.jpg",
+            "heading": "Our New A \/ W Assessories",
+            "subheading": "Available Now",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629135702a32c031f-0",
+        "1629135702a32c031f-1"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1629139958b836de3b": {
+      "type": "grid-collection",
+      "blocks": {
+        "07542b5d-48fc-4c1b-9e6a-9308d2cb0c03": {
+          "type": "collection",
+          "settings": {
+            "collection": "news"
+          }
+        },
+        "9b2c0de3-1056-496d-a739-a44dc16e164a": {
+          "type": "collection",
+          "settings": {
+            "collection": "jackets"
+          }
+        },
+        "aa6df869-c92e-422f-b628-89990fb465c2": {
+          "type": "collection",
+          "settings": {
+            "collection": "jeans"
+          }
+        },
+        "44709f24-17b9-47d3-9623-dae26010d3e5": {
+          "type": "collection",
+          "settings": {
+            "collection": "shirts"
+          }
+        }
+      },
+      "block_order": [
+        "07542b5d-48fc-4c1b-9e6a-9308d2cb0c03",
+        "9b2c0de3-1056-496d-a739-a44dc16e164a",
+        "aa6df869-c92e-422f-b628-89990fb465c2",
+        "44709f24-17b9-47d3-9623-dae26010d3e5"
+      ],
+      "settings": {
+        "title": "Menswear"
+      }
+    },
+    "1629140833d9fc7f4b": {
+      "type": "grid-featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "featured",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false
+      }
+    },
+    "1628163858a301f6e0": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628163858a301f6e0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_2.png",
+            "title": "Our flagship store",
+            "text": "<p>At one time she would come on board with a jar of pickles for the steward’s pantry of a most determined.<\/p>"
+          }
+        },
+        "1628163858a301f6e0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shopping-cart.png",
+            "title": "Fast & secure checkout",
+            "text": "<p>Startling to see this excellent hearted quakeress coming on board, as she did the last day at all backward.<br\/><br\/><\/p>"
+          }
+        },
+        "1628163858a301f6e0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tshirt.png",
+            "title": "Easy returns & exchanges",
+            "text": "<p>Chief among those who did this fetching and carrying was Captain Bildad's sister, a lean old lady.<\/p>"
+          }
+        },
+        "33a36bd6-c3d2-4596-8747-7907e928d2cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/worldwide.png",
+            "title": "Free international delivery",
+            "text": "<p>One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628163858a301f6e0-0",
+        "1628163858a301f6e0-1",
+        "1628163858a301f6e0-2",
+        "33a36bd6-c3d2-4596-8747-7907e928d2cc"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_line_separator": false,
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16293151207b5b6c07": {
+      "type": "grid-article",
+      "blocks": {
+        "7c9c1ca9-55d6-42b4-8758-a7b1aca59f14": {
+          "type": "article",
+          "settings": {
+            "article": "news\/the-dark-ages"
+          }
+        },
+        "6afeb401-7b41-44c6-aaf8-ada6ed43b6bd": {
+          "type": "article",
+          "settings": {
+            "article": "news\/watch-this-space"
+          }
+        },
+        "60509cca-902c-4955-a3e8-d695334b363c": {
+          "type": "article",
+          "settings": {
+            "article": "news\/pixelobject-february"
+          }
+        },
+        "016abe26-6978-4f08-b81c-200e20780a0a": {
+          "type": "article",
+          "settings": {
+            "article": "news\/our-new-publication"
+          }
+        }
+      },
+      "block_order": [
+        "7c9c1ca9-55d6-42b4-8758-a7b1aca59f14",
+        "6afeb401-7b41-44c6-aaf8-ada6ed43b6bd",
+        "60509cca-902c-4955-a3e8-d695334b363c",
+        "016abe26-6978-4f08-b81c-200e20780a0a"
+      ],
+      "settings": {
+        "title": "Articles"
+      }
+    }
+  },
+  "order": [
+    "1629121146482c89f5",
+    "1628160445d84660e1",
+    "1629135702a32c031f",
+    "1629139958b836de3b",
+    "1629140833d9fc7f4b",
+    "16293151207b5b6c07",
+    "1628163858a301f6e0"
+  ]
+}
